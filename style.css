@@ -46,7 +46,7 @@ li{
 
 body::before {
     content: "";
-    background-image: url("/resinartbg.jpg");
+    background-image: url("/resinartbg.png");
     background-position: center;
     position:fixed;
     top: 0;
