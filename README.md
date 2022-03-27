@@ -1,1 +1,2 @@
 # Hackathon-2-19-Kenelle
+## During a group challenge with the TCP TechBridge program my group was assigned with creating a website that described the members of the group and answered about 4 questions for each member. My group ran into technical difficulties and also was not able to turn in the project because the member that had everything on her computer had to leave for an event right before it was time to present the project. Needless to say, my group had nothing to turn in and it was quite embarrasing. So, I later created my own vision of the project for practice.
